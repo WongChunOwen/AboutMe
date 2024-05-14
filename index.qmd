@@ -14,7 +14,11 @@ Studied in the field of IT for 3 years and had worked as an IT assistant in Sets
 Search the link here to view more -> [Portfolio](https://odys6x.github.io/Portfolio/)
 
 ## Experience
-
+:::: {.columns}
+::: {.column width=20%}
+![](attsystems_logo.jfif)
+:::
+::: {.column width=80%}
 ### Information Technology Assistant
 
 ATT Systems Group · Internship  
@@ -25,7 +29,11 @@ Singapore
 - Perform program requirements analysis, investigation, and troubleshooting to resolve any technical issues. 
 - Support for hardware issues
 - Maintain IT documentation
-
+:::
+::: {.column width=20%}
+![](setsco.jfif)
+:::
+::: {.column width=80%}
 ### Information Technology AssistantInformation Technology Assistant
 
 Setsco Services Pte Ltd · Part-time
@@ -33,3 +41,7 @@ Dec 2017 - Apr 2018 · 5 mos
 Singapore
 
 Solve client issues, by installing programs, troubleshooting, fixing computers
+:::
+::::
+
+
