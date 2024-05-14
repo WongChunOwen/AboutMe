@@ -3,7 +3,7 @@ title: "Wong Chun Owen"
 ---
 
 I don't have a nice picture of myself so ...
-![](RuanMei.jpg)
+![](image/RuanMei.jpg)
 
 <br>
 
@@ -16,7 +16,7 @@ Search the link here to view more -> [Portfolio](https://odys6x.github.io/Portfo
 ## Experience
 :::: {.columns}
 ::: {.column width=20%}
-![](attsystems_logo.jfif)
+![](image/attsystems_logo.jfif)
 :::
 ::: {.column width=80%}
 ### Information Technology Assistant
@@ -31,7 +31,7 @@ Singapore
 - Maintain IT documentation
 :::
 ::: {.column width=20%}
-![](setsco.jfif)
+![](image/setsco.jfif)
 :::
 ::: {.column width=80%}
 ### Information Technology AssistantInformation Technology Assistant

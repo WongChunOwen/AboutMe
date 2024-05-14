@@ -1,0 +1,24 @@
+---
+title: "My Hobbies"
+---
+
+## Games
+
+### Honkai Starail
+My profile
+![](image/hsr.jpg)
+<br>
+<br>
+and I main Acheron
+
+<br>
+![](image/raiden.gif)
+<br>
+
+### Elden Ring
+![](image/letme.jpg)
+
+## Music
+Will listen to LoFi when doing work
+
+{{< video https://youtu.be/m1vtEX64gmE?si=g3RI-FHZ5popnYQS width="800" height="400" >}}
