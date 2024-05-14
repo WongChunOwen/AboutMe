@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+HELPPP
 
-```{r}
-1 + 1
-```
+
