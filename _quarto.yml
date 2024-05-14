@@ -3,14 +3,17 @@ project:
   output-dir: docs
   
 website:
-  title: "temp_website"
+  title: "About Me"
   favicon: favicon.png
+    
   navbar:
     logo: logo.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+
 
 format:
   html:

@@ -1,9 +1,35 @@
 ---
-title: "temp_website"
+title: "Wong Chun Owen"
 ---
 
-This is a Quarto website.
+I don't have a nice picture of myself so ...
+![](RuanMei.jpg)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<br>
 
+## About
 
+Studied in the field of IT for 3 years and had worked as an IT assistant in Setsco and ATT Systems for 5 months and 3 months respectively.
+
+Search the link here to view more -> [Portfolio](https://odys6x.github.io/Portfolio/)
+
+## Experience
+
+### Information Technology Assistant
+
+ATT Systems Group · Internship  
+Mar 2020 - May 2020 · 3 mos  
+Singapore
+
+- Provide technical assistance and day-to-day operational support for the system at the office 
+- Perform program requirements analysis, investigation, and troubleshooting to resolve any technical issues. 
+- Support for hardware issues
+- Maintain IT documentation
+
+### Information Technology AssistantInformation Technology Assistant
+
+Setsco Services Pte Ltd · Part-time
+Dec 2017 - Apr 2018 · 5 mos
+Singapore
+
+Solve client issues, by installing programs, troubleshooting, fixing computers
