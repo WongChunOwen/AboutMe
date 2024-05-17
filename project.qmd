@@ -1,0 +1,13 @@
+---
+title: "My Project"
+---
+
+## IMS Redevelopment Project
+
+Mar 2020 - May 2020
+
+<br>
+
+With understanding from ATT System's fault call handling, interaction with the site engineers, speaking to the HoD, and gathering their valuable feedback, I consolidated some improvement to the current IMS system, for example, the Man-Machine Interface (MMI) in the company system, the fault handing-Taking over by admin and Service Engineer.
+
+After I volunteered to manage and look into improvement that can be made to the IMS, the Head of Department revealed that he had many pain points that he wanted to address. After further discussion, and in lieu of the remaining time I have in ATT Infosoft, he proposed two of his most painful points as his priorities, are ‘’Escalation’’ and “Stock inventory’’ features.
