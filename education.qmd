@@ -1,0 +1,38 @@
+---
+title: "Education"
+---
+
+## Current 
+
+:::: {.columns}
+::: {.column width=20%}
+![](image/SIT.jfif)
+:::
+::: {.column width=80%}
+### Singapore Institute of Technolgy
+Bachelor of Science with Honours in Applied Artificial Intelligence
+ 
+Aug 2023 - currently pursuing  
+
+:::
+::: {.column width=20%}
+<br>
+![](image/NYP.jfif)
+:::
+::: {.column width=80%}
+
+<br>
+
+### Nanyang Polytechnic
+
+Diploma of Information Technology
+2018 - 2021 · 3 years
+
+ - Activities and societies: Symphony Orchestra 2018-2019
+ - Art Council (Vice President) 2019-2019
+ - Developer Student Club 2019-2019
+:::
+::::
+
+
+
