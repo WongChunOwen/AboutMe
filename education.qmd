@@ -15,14 +15,13 @@ Bachelor of Science with Honours in Applied Artificial Intelligence
 Aug 2023 - currently pursuing  
 
 :::
-::: {.column width=20%}
+::::
 ## Past Education
-<br>
+:::: {.columns}
+::: {.column width=20%}
 ![](image/NYP.jfif)
 :::
 ::: {.column width=80%}
-
-<br>
 
 ### Nanyang Polytechnic
 
