@@ -15,6 +15,8 @@ website:
         text: Project
       - href: hobbies.qmd
         text: Hobbies
+      - href: education.qmd
+        text: Education
 
 
 format:
